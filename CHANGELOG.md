@@ -1,1 +1,1 @@
-- Updated to Minecraft 1.21.1
+- Fixed Pretty Beaches preventing excavator-like tools from working correctly on sand
